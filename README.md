@@ -1,7 +1,29 @@
+Flat UI SCSS
+=======
+
+This is a fork of [Flat UI Free](https://github.com/designmodo/Flat-UI) with the addition
+of SCSS/Sass files manually converted from LESS. You can use LESS or SCSS from this repo.
+
+
+### Using SCSS
+
+```bash
+gem install sass
+cd scss
+sass --watch flat-ui.scss:../css/flat-ui.scss.css
+```
+
+
+Changelog
+=======
+
+* [2013-06-25] Converted less to scss; see scss dir
+
+
 Flat UI Free
 =======
 
-Flat UI Free is licensed under a Creative Commons Attribution 3.0 Unported (CC BY 3.0)  (http://creativecommons.org/licenses/by/3.0/) and MIT License - http://opensource.org/licenses/mit-license.html. 
+Flat UI Free is licensed under a Creative Commons Attribution 3.0 Unported (CC BY 3.0)  (http://creativecommons.org/licenses/by/3.0/) and MIT License - http://opensource.org/licenses/mit-license.html.
 
 You are allowed to use these elements anywhere you want, however we’ll highly appreciate if you will link to our website when you share them - http://designmodo.com
 
@@ -13,13 +35,14 @@ Thanks for supporting our website and enjoy!
 + [Official page](http://designmodo.com/flat-free)
 + [Premium Version of Flat UI](http://designmodo.com/flat/)
 
-## Changelog
-
-+ 1.0 Fixed several small IE bugs
-+ 1.1 New icons, Login screen implemented to a real HTML one. Small bug fixes and refinements.
-+ 2.0 Compatibility with Flat UI Pro (Less instead of Sass), Bootstrap upgraded to 2.3.1, grids refinements, various Less compiler bugfixes, Video module bugfix, various small bugfixes.
 
 ## Authors
+
+**Joe Johnston**
+
++ [http://simple10.com](http://simple10.com)
++ [http://twitter.com/joejohnston](http://twitter.com/joejohnston)
+
 
 **Sergey Shmidt**
 
@@ -56,7 +79,7 @@ How Companies can Save Time and Money Using UI Kits:		  [http://designmodo.com/s
 
 UI Kits for Developers – Prototyping and Homemade Design:	[http://designmodo.com/ui-kits-developers](http://designmodo.com/ui-kits-developers)
 
- 
+
 Our Shop:
 
 [http://designmodo.com/shop/](http://designmodo.com/shop/)
@@ -72,7 +95,7 @@ Freebies:
 [http://designmodo.com/freebies/](http://designmodo.com/freebies/)
 
 
-Affiliate Program (earn money): 
+Affiliate Program (earn money):
 
 [http://designmodo.com/affiliates/](http://designmodo.com/affiliates/)
 
