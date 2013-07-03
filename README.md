@@ -1,15 +1,15 @@
-Flat UI SCSS
+Flat UI SASS
 =======
 
 This is a fork of [Flat UI Free](https://github.com/designmodo/Flat-UI) with the addition
-of SCSS/Sass files manually converted from LESS. You can use LESS or SCSS from this repo.
+of sass files manually converted from LESS. You can use LESS or sass from this repo.
 
 
-### Using SCSS
+### Using SASS
 
 ```bash
 gem install sass
-cd scss
+cd sass
 sass --watch flat-ui.scss:../css/flat-ui.scss.css
 ```
 
@@ -17,6 +17,7 @@ sass --watch flat-ui.scss:../css/flat-ui.scss.css
 Changelog
 =======
 
+* [2013-07-03] Update repo name to flat-ui-sass and moved scss to sass to follow convention
 * [2013-06-25] Converted less to scss; see scss dir
 
 
