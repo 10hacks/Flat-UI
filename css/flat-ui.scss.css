@@ -2456,10 +2456,7 @@ input.todo-search-field {
   .todo li {
     background-image: url(../images/todo/todo-2x.png); }
     .todo li.todo-done {
-      background-image: url(../images/todo/done-2x.png); }
-
-  .todo-search {
-    background-image: url(../images/todo/search-2x.png); } }
+      background-image: url(../images/todo/done-2x.png); } }
 footer {
   background-color: #eceef0;
   color: #b9c1c8;
